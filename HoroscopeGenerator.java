@@ -1,3 +1,9 @@
+/** 
+    * Simple program that generates your Horoscope Sign and a Random Horoscope (Java Begineer) 
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of Array, Random and if/else if clause.  
+    */
+
 import java.util.Scanner;
 import java.util.Random;
 
